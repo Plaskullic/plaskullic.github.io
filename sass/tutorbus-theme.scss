@@ -1,0 +1,22 @@
+$primary-color: #ff1830;
+$secondary-color: #f09e65;
+
+$background-primary-color: #ff416c;
+$background-secondary-color: #fea121;
+$background-color-gradient: linear-gradient(85deg, $background-primary-color -30%, $background-secondary-color 90%);
+
+$font-color: #707070;
+$header-color: #FF6153;
+
+$group-color: #FF674E;
+$group-color-light: lighten( $group-color, 30);
+
+$marking-color: #FE9827;
+$marking-color-light: lighten( $marking-color, 35);
+
+$ies-color: #FFDD0F;
+$ies-color-light: lighten( $ies-color, 38);
+
+@import url('https://fonts.googleapis.com/css?family=Crafty+Girls|The+Girl+Next+Door|&display=swap');
+
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap');
